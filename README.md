@@ -63,3 +63,12 @@ Combina recursos locais (on-premise) com a nuvem.
 Segui também este tutorial oficial da Microsoft para criar uma VM com Windows via Portal Azure:
 
 👉 [Criar uma máquina virtual Windows com o portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
+
+## 🧪 Configurando uma Instância de Banco de Dados no Azure
+
+Durante a prática, o foco foi **criar e configurar uma instância de banco de dados na nuvem utilizando o Microsoft Azure**, explorando os seguintes aspectos:
+
+- Seleção de recursos como CPU, armazenamento e redundância geográfica.
+- Definição de regras de firewall para permitir acesso seguro.
+- Configuração de autenticação e usuários.
+- Testes de conectividade e validação da instância criada.
